@@ -1,7 +1,6 @@
 # Mantine Next.js template
 
-This is a template for [Next.js](https://nextjs.org/) app router + [Mantine](https://mantine.dev/).
-If you want to use pages router instead, see [next-pages-template](https://github.com/mantinedev/next-pages-template).
+This is a template for [Next.js](https://nextjs.org/) app router + [Mantine](https://mantine.dev/) + [FSD]([@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)).
 
 ## Features
 
@@ -13,7 +12,7 @@ This template comes with the following features:
 - [Jest](https://jestjs.io/) setup with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - ESLint setup with [eslint-config-mantine](https://github.com/mantinedev/eslint-config-mantine)
 
-## npm scripts
+## yarn scripts
 
 ### Build and dev scripts
 
@@ -35,3 +34,4 @@ This template comes with the following features:
 - `storybook` – starts storybook dev server
 - `storybook:build` – build production storybook bundle to `storybook-static`
 - `prettier:write` – formats all files with Prettier
+
